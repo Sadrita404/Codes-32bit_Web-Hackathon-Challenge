@@ -1,25 +1,18 @@
-# Welcome to your Lovable project
+# Welcome to your Web Hackathon Challenge Frontend Project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/a98d577a-efff-43cd-8d18-d814e16a4a92
+**Website_URL**: https://codes-32bit.lovable.app/
 
-## How can I edit this code?
+## How Run it on 
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a98d577a-efff-43cd-8d18-d814e16a4a92) and start prompting.
+**Use Vs Code**
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+**Use your preferred IDE (Vs code is Recomended)**
+If you want to run it locally 
 Follow these steps:
 
 ```sh
@@ -35,20 +28,35 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+## About the Project:
 
-**Edit a file directly in GitHub**
+# 🛡️ Red & Blue Team Cybersecurity Simulation Platform
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project is an AI-assisted cybersecurity simulation system designed to enhance both offensive (Red Team) and defensive (Blue Team) capabilities through realistic, data-driven scenarios. It provides a unified environment to analyze, simulate, and visualize cyber incidents dynamically.
 
-**Use GitHub Codespaces**
+# 🔴 Red Team (Attack Simulation)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Simulates real-world attack scenarios such as reconnaissance, phishing, and exploit testing.
+Helps identify potential vulnerabilities and assess how systems react under simulated threat conditions.
+Encourages ethical hacking practice to strengthen system security posture.
+
+# 🔵 Blue Team (Defense Analysis)
+
+Detects, analyzes, and responds to simulated attacks using intelligent pattern recognition.
+Evaluates defense mechanisms and highlights areas requiring immediate attention.
+Assists teams in improving incident response time and accuracy.
+
+# 📊 Interactive Dashboard Overview
+
+Displays attack paths, detection timelines, and system responses in real time.
+Provides clear visual insights into how Red Team attacks evolve and how the Blue Team mitigates them.
+Includes threat metrics, log summaries, and response effectiveness scores to measure defense readiness.
+Enables post-simulation comparison between Red and Blue strategies for continuous learning.
+
+# 📄 Dynamic PDF Report Generation
+After each simulation, a custom analytical report is automatically generated.
+The report includes attack vectors, detection outcomes, and performance summaries.
+Users can download the report to document and review their cybersecurity performance. 
 
 ## What technologies are used for this project?
 
@@ -59,15 +67,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- HTML
+- CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a98d577a-efff-43cd-8d18-d814e16a4a92) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
