@@ -1,6 +1,7 @@
 # Welcome to your Web Hackathon Challenge Frontend Project
 
-## Project info
+## Project info(By Codes-32bit)
+# Developer Name:- Sadrita Neogi
 
 **Website_URL**: https://codes-32bit.lovable.app/
 
