@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/94189bc6-92df-415e-9bf4-21f2260da02f
 <img width="1468" height="832" alt="Screenshot 2025-10-05 at 5 44 40 PM" src="https://github.com/user-attachments/assets/5a5b2be9-9c6a-4a68-ad52-882cc800b87c" />
 
 ## Pdf Demo 
-[Uploading Sadrita__Security_Report.pdf…]()
+https://sadrita-security-report.tiiny.site/
 
 
 ## On Dark-Mode Page
