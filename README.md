@@ -102,6 +102,10 @@ https://github.com/user-attachments/assets/94189bc6-92df-415e-9bf4-21f2260da02f
 
 <img width="1468" height="832" alt="Screenshot 2025-10-05 at 5 44 40 PM" src="https://github.com/user-attachments/assets/5a5b2be9-9c6a-4a68-ad52-882cc800b87c" />
 
+## Pdf Demo 
+[Uploading Sadrita__Security_Report.pdf…]()
+
+
 ## On Dark-Mode Page
 
 <img width="1470" height="826" alt="Screenshot 2025-10-05 at 5 44 57 PM" src="https://github.com/user-attachments/assets/75732307-9b6c-4814-ac6e-60eb8b8a3803" />
